@@ -17,12 +17,6 @@ import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyA1Gag4Jnqugh6tSmETrCwD0qcYlQES9Co",
-  authDomain: "miniblog-ref-fdfe2.firebaseapp.com",
-  projectId: "miniblog-ref-fdfe2",
-  storageBucket: "miniblog-ref-fdfe2.appspot.com",
-  messagingSenderId: "585480513335",
-  appId: "1:585480513335:web:cb422adf1ff843b126dcb2"
 
 };
 
