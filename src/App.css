@@ -1,0 +1,8 @@
+.container{
+  min-height: 60vh;
+  margin-bottom: 5em;
+}
+
+#root {
+  width: 100%;
+}
