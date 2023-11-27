@@ -25,5 +25,5 @@ dist-ssr
 
 # DB config
 **firebase/app
-
+.firebase/app
 
