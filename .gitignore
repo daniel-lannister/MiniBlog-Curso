@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 # DB config
-**firebase/app
-.src/firebase/app
+*firebase
+
 
